@@ -1,0 +1,13 @@
+numpy
+seaborn
+scikit-learn
+scipy
+pytest
+pytest-cov
+ipython
+ipykernel
+tqdm
+deepchem
+selfies
+torch
+tensorflow
